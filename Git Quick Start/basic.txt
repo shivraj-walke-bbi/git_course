@@ -1,0 +1,18 @@
+
+for clonning the repository 
+
+git clone repository_url
+
+eg.
+git clone https://github.com/shivraj-walke-bbi/search_page.git
+
+
+ls
+
+cd search_page/
+
+ls
+
+
+git status
+

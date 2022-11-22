@@ -4,12 +4,12 @@ for clonning the repository
 git clone repository_url
 
 eg.
-git clone https://github.com/shivraj-walke-bbi/search_page.git
+git clone https://github.com/shivraj-walke-bbi/git_course.git
 
 
 ls
 
-cd search_page/
+cd git_course/
 
 ls
 
